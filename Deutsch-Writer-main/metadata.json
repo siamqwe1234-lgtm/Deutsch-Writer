@@ -1,6 +1,0 @@
-{
-  "name": "Deutsch Writer",
-  "description": "German writing practice for Bengali speakers featuring vocabulary, syntax, grammar, streaks, custom content management, and voice pronunciation.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
